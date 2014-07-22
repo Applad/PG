@@ -14,7 +14,7 @@ nut.config.autoData = {
 	----------------------
 	Citizen ID: %digits%
 	----------------------
-	Points: 0
+	Verdict Points: 0
 	----------------------
 	Loyalty Points: 0
 	----------------------
